@@ -1,12 +1,12 @@
 {
   "name": "qt",
   "version": "1.0.0",
-  "description": "",
+  "description": "Random video API",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
+  "keywords": ["api", "random", "video"],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
@@ -15,6 +15,6 @@
     "express": "^5.1.0"
   },
   "engines": {
-  "node": ">=18.18.0 <19.0.0"
-}
+    "node": ">=18.18.0 <19.0.0"
+  }
 }
